@@ -16,7 +16,7 @@
 
 
 <p>
-<q>Empowerment of individuals is a key part of what makes open source work, since in the end, innovations tend to come from small groups, not from large, structured efforts. -Tim O'Reilly</q>
+<blockquote>Empowerment of individuals is a key part of what makes open source work, since in the end, innovations tend to come from small groups, not from large, structured efforts. -Tim O'Reilly</blockquote>
 </p>
 
 </div>
