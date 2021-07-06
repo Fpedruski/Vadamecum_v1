@@ -13,7 +13,6 @@
 -   [ ] Resume the idea
 -    [ ] Working in a Template
         [] Introduce the main point in a vadecum
-        []
     [ ] Languages 
         [x] Italian
         [x] Portuguese
@@ -43,6 +42,8 @@ This main idea came when I start to look the vademecum from Italy, there you can
 
 and a beutiful open source project called, guia vadecum 
 ![Vadem&cum]("https://www.guidavademecum.it/#idea")
+<img src="./assets/libretti-smart.jpg" width="100%"/>
+
 
 
 <table border="0">
