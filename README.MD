@@ -1,7 +1,9 @@
+<h1> Welcome</h1>
+
 <img src="./assets/mappa-migrazioni.jpg" width="100%"/>
 <div align="center">
 
-<h1> Welcome</h1>
+
 <table border="0">
  <tr>
     <td><b style="font-size:20px">Title</b></td>
