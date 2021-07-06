@@ -1,4 +1,4 @@
-![Alt-text]("assets/mappa migrazioni.jpg")
+![Alt-text]("assets/mappa-immigrazioni.jpg")
 <div align="center">
 
 <h1> Welcome</h1>
