@@ -44,7 +44,7 @@ This main idea came when I start to look the vademecum from Italy, there you can
 and a beutiful open source project called, guia vadecum 
 ![Vadem&cum]("https://www.guidavademecum.it/#idea")
 
-
+<img src="./assets/libretti-smart.jpg" width="100%"/>
 <table border="0">
  <tr>
     <td><b style="font-size:20px">/ va de mè cum /</b></td>
