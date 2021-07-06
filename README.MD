@@ -1,7 +1,7 @@
 <h1> Welcome</h1>
 
 <img src="./assets/mappa-migrazioni.jpg" width="100%"/>
-<div align="center">
+<div>
 
 <p>
     Main idea is to complete a series of small booklets to be used as guide for each country. What I mean with that?
@@ -12,6 +12,7 @@
 
 <p>
     Would be wonderful to see in the future this used to welcome new travelers and see this as a main guide to know another country, beside wikipedia. The beutiful from a open source project is that a small act from a single person is undervalued when eventually small acts and contribute are done. 
+
 <q>
     Empowerment of individuals is a key part of what makes open source work, since in the end, innovations tend to come from small groups, not from large, structured efforts.
 
@@ -22,7 +23,7 @@
 <table border="0">
  <tr>
     <td><b style="font-size:20px">/ va de mè cum /</b></td>
-    <td><b style="font-size:20px">Title2</b></td>
+    <td><b style="font-size:20px">Objective</b></td>
  </tr>
  <tr>
     <td> 
