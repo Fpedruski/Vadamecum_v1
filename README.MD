@@ -18,15 +18,6 @@
 <p>
 <blockquote>Empowerment of individuals is a key part of what makes open source work, since in the end, innovations tend to come from small groups, not from large, structured efforts. -Tim O'Reilly</blockquote>
 </p>
-
-
-<q>Empowerment of individuals is a key part of what makes open source work, since in the end, innovations tend to 
-    come from small groups, not from large, structured efforts.
-
-    
--Tim O'Reilly</q>
-
-
 </div>
 
 This main idea came when I start to look the vademecum from Italy, there you can find an extense and well ogranized file for what you need to in order to live there, you can find some other example in the 
