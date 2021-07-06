@@ -13,7 +13,6 @@
     [ ] Resume the idea
     [ ] Working in a Template
         [] Introduce the main point in a vadecum
-        []
     [ ] Languages 
         [x] Italian
         [x] Portuguese
