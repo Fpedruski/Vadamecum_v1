@@ -1,4 +1,4 @@
-![Alt-text]("./assets/mappa-immigrazioni.jpg")
+<img src="./assets/mappa-migrazioni.jpg" width="100%"/>
 <div align="center">
 
 <h1> Welcome</h1>
