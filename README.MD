@@ -27,6 +27,9 @@
     [ ] Languages translation
     [ ] Linking resources
     [ ] Anchor 
+
+    [] Complete Figma instruction
+    ![Figma File]("https://www.figma.com/file/jg4dPbD1S3EQq0Z91tXHYR/Vademcum?node-id=3%3A187")
     
 
 <p>
