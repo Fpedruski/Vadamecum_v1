@@ -16,11 +16,13 @@
         []
     [ ] Languages 
         [x] Italian
+            [] To .md
         [x] Portuguese
+            []To .md
         [ ] English
         [ ] Spanish
-        [ ] Outros...
-    [ ] Separate the languages in each fork?
+        [ ] Others...
+    [ ] Separate the languages in each branch?
     [ ] Issue Tracking
     [ ] Languages translation
     [ ] Linking resources
