@@ -29,9 +29,9 @@
     [ ] Anchor 
 
     [] Complete Figma instruction
-    ![Figma File]("https://www.figma.com/file/jg4dPbD1S3EQq0Z91tXHYR/Vademcum?node-id=3%3A187")
     
-
+    
+![Figma File]("https://www.figma.com/file/jg4dPbD1S3EQq0Z91tXHYR/Vademcum?node-id=3%3A187")
 <p>
     Would be wonderful to see in the future this used to welcome new travelers and see this as a main guide to know another country, beside wikipedia. The beutiful from a open source project is that a small act from a single person is undervalued when eventually small acts and contribute are done. 
 </p>
